@@ -6,14 +6,8 @@
   </head>
   <body>
     <div class="container">
-      <header style="display:inline">
-        <img
-          src="res/logo-wide.png"
-          alt="ShiftOS Logo"
-          style="float:left"
-        />
-        
-        <h1 style="float:right">News</h1>
+      <header>
+        <h1>ShiftOS News</h1>
       </header>
       <main>
         <section class="jumbotron">
