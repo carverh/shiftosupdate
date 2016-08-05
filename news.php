@@ -10,9 +10,8 @@
         <h1>ShiftOS News</h1>
       </header>
       <main>
-        <section class="jumbotron">
-          <h2>ShiftOS Laucher 2.0 Beta 1</h2>
-          <div class="post">
+          <section class="post">
+            <h2>ShiftOS Laucher 2.0 Beta 1</h2>
             <div class="post-info">
               <p>First Beta of The ShiftOS Launcher 2.0</p>
             </div>
