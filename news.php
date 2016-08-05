@@ -18,9 +18,21 @@
             </div>
             <div class="post-features">
             <ul>
-              <li>New UI</li>
-              <li>New UX</li>
-              <li>New Server</li>
+              <li>
+                <p>
+                  New UI
+                </p>
+              </li>
+              <li>
+                <p>
+                  New UX
+                </p>
+              </li>
+              <li>
+                <p>
+                  New Server
+                </p>
+              </li>
             </ul>
           </div>
           <div class="post-author">
